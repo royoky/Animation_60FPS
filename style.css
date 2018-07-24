@@ -1,0 +1,12 @@
+#box {
+  background-color: tomato;
+  color: black;
+  padding: 10px;
+  color: yellow;
+  width: 10vw;
+  /*transform: translate3d(50px,0, 0);*/
+}
+.animated{
+  transform: translate3d(90vw,0, 0);
+  transition: transform 2s;
+}
